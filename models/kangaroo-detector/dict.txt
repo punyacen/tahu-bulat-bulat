@@ -1,0 +1,7 @@
+background
+retak panjang
+retak pinggir
+sambungan aspal
+retak melintang
+retak buaya
+lubang
